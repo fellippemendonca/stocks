@@ -1,6 +1,7 @@
 'use strict';
 
-module.exports = {
+const config = {
+  
   development: {
     port: 3001,
     defaultPath: '/api'
@@ -14,3 +15,5 @@ module.exports = {
     defaultPath: '/api'
   }
 };
+
+module.exports = config[process.env.NODE_ENV || 'development'];

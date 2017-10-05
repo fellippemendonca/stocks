@@ -6,8 +6,6 @@ const parse = require('./request').parse;
 const dao = require('../initializers').dao;
 const log = require('../initializers').log;
 
-
-
 function Router(app) {
   this._app = app;
   this.router = express.Router();
