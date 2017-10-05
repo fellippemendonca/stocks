@@ -1,4 +1,4 @@
-'use strinct';
+'use strict';
 
 const express = require('express'),
   bodyParser = require('body-parser'),
@@ -21,7 +21,8 @@ router.init();
 app.use('/', router.get());
 
 app.listen(app.config.port, () => {
+
   log.info(`app listening on port ${app.config.port}`);
-  
   console.log(`app listening on port ${app.config.port}`)
+
 });

@@ -1,0 +1,142 @@
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":30,"msg":"app listening on port 3000","time":"2017-10-05T08:26:41.113Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":30,"function":"init","activity":"Stock: Stock-53 Generated.","msg":"","time":"2017-10-05T08:26:41.115Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":30,"function":"init","activity":"Stock: Stock-51 Generated.","msg":"","time":"2017-10-05T08:26:41.115Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":30,"function":"init","activity":"Stock: Stock-67 Generated.","msg":"","time":"2017-10-05T08:26:41.115Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":30,"function":"init","activity":"Stock: Stock-21 Generated.","msg":"","time":"2017-10-05T08:26:41.115Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":30,"function":"init","activity":"Stock: Stock-28 Generated.","msg":"","time":"2017-10-05T08:26:41.115Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":30,"function":"init","activity":"Stock: Stock-96 Generated.","msg":"","time":"2017-10-05T08:26:41.115Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":30,"function":"init","activity":"Stock: Stock-69 Generated.","msg":"","time":"2017-10-05T08:26:41.115Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":30,"function":"init","activity":"Stock: Stock-66 Generated.","msg":"","time":"2017-10-05T08:26:41.115Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":30,"function":"init","activity":"Stock: Stock-10 Generated.","msg":"","time":"2017-10-05T08:26:41.115Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":30,"function":"init","activity":"Stock: Stock-97 Generated.","msg":"","time":"2017-10-05T08:26:41.115Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T08:26:46.615Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":30,"request":{"params":{"id":"1"},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T08:26:48.995Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":30,"request":{"params":{"id":"1"},"query":{},"body":{"currentPrice":1221.91111}},"response":"OK","msg":"","time":"2017-10-05T08:26:51.902Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":30,"request":{"params":{},"query":{},"body":{"name":"New Stock","currentPrice":1532.665,"id":10,"lastUpdate":"2017-10-05T08:26:55.162Z"}},"response":"Created","msg":"","time":"2017-10-05T08:26:55.162Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T08:27:00.719Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":50,"function":"get","error":"Object not found","msg":"","time":"2017-10-05T08:27:14.135Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19175,"level":50,"request":{"params":{"id":"111"},"query":{},"body":{}},"response":"Not Found","error":"Object not found","msg":"","time":"2017-10-05T08:27:14.138Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19321,"level":30,"msg":"app listening on port 3000","time":"2017-10-05T08:28:19.329Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19321,"level":30,"function":"init","activity":"Stock: Stock-58 Generated.","msg":"","time":"2017-10-05T08:28:19.331Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19321,"level":30,"function":"init","activity":"Stock: Stock-16 Generated.","msg":"","time":"2017-10-05T08:28:19.332Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19321,"level":30,"function":"init","activity":"Stock: Stock-73 Generated.","msg":"","time":"2017-10-05T08:28:19.332Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19321,"level":30,"function":"init","activity":"Stock: Stock-55 Generated.","msg":"","time":"2017-10-05T08:28:19.332Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19321,"level":30,"function":"init","activity":"Stock: Stock-84 Generated.","msg":"","time":"2017-10-05T08:28:19.332Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19321,"level":30,"function":"init","activity":"Stock: Stock-58 Generated.","msg":"","time":"2017-10-05T08:28:19.332Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19321,"level":30,"function":"init","activity":"Stock: Stock-65 Generated.","msg":"","time":"2017-10-05T08:28:19.332Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19321,"level":30,"function":"init","activity":"Stock: Stock-83 Generated.","msg":"","time":"2017-10-05T08:28:19.332Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19321,"level":30,"function":"init","activity":"Stock: Stock-5 Generated.","msg":"","time":"2017-10-05T08:28:19.332Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19321,"level":30,"function":"init","activity":"Stock: Stock-65 Generated.","msg":"","time":"2017-10-05T08:28:19.332Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19345,"level":30,"msg":"app listening on port 3000","time":"2017-10-05T08:28:48.953Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19345,"level":30,"function":"init","activity":"Stock: Stock-13 Generated.","msg":"","time":"2017-10-05T08:28:48.955Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19345,"level":30,"function":"init","activity":"Stock: Stock-86 Generated.","msg":"","time":"2017-10-05T08:28:48.956Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19345,"level":30,"function":"init","activity":"Stock: Stock-72 Generated.","msg":"","time":"2017-10-05T08:28:48.956Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19345,"level":30,"function":"init","activity":"Stock: Stock-6 Generated.","msg":"","time":"2017-10-05T08:28:48.956Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19345,"level":30,"function":"init","activity":"Stock: Stock-41 Generated.","msg":"","time":"2017-10-05T08:28:48.956Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19345,"level":30,"function":"init","activity":"Stock: Stock-21 Generated.","msg":"","time":"2017-10-05T08:28:48.956Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19345,"level":30,"function":"init","activity":"Stock: Stock-9 Generated.","msg":"","time":"2017-10-05T08:28:48.956Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19345,"level":30,"function":"init","activity":"Stock: Stock-64 Generated.","msg":"","time":"2017-10-05T08:28:48.956Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19345,"level":30,"function":"init","activity":"Stock: Stock-13 Generated.","msg":"","time":"2017-10-05T08:28:48.956Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19345,"level":30,"function":"init","activity":"Stock: Stock-86 Generated.","msg":"","time":"2017-10-05T08:28:48.956Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19401,"level":30,"msg":"app listening on port 3000","time":"2017-10-05T08:29:18.430Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19401,"level":30,"function":"init","activity":"Stock: Stock-93 Generated.","msg":"","time":"2017-10-05T08:29:18.432Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19401,"level":30,"function":"init","activity":"Stock: Stock-21 Generated.","msg":"","time":"2017-10-05T08:29:18.432Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19401,"level":30,"function":"init","activity":"Stock: Stock-7 Generated.","msg":"","time":"2017-10-05T08:29:18.432Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19401,"level":30,"function":"init","activity":"Stock: Stock-32 Generated.","msg":"","time":"2017-10-05T08:29:18.432Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19401,"level":30,"function":"init","activity":"Stock: Stock-25 Generated.","msg":"","time":"2017-10-05T08:29:18.432Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19401,"level":30,"function":"init","activity":"Stock: Stock-65 Generated.","msg":"","time":"2017-10-05T08:29:18.432Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19401,"level":30,"function":"init","activity":"Stock: Stock-24 Generated.","msg":"","time":"2017-10-05T08:29:18.432Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19401,"level":30,"function":"init","activity":"Stock: Stock-29 Generated.","msg":"","time":"2017-10-05T08:29:18.432Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19401,"level":30,"function":"init","activity":"Stock: Stock-36 Generated.","msg":"","time":"2017-10-05T08:29:18.432Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19401,"level":30,"function":"init","activity":"Stock: Stock-54 Generated.","msg":"","time":"2017-10-05T08:29:18.432Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19722,"level":30,"msg":"app listening on port 3000","time":"2017-10-05T08:31:37.086Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19722,"level":30,"function":"init","activity":"Stock: Stock-62 Generated.","msg":"","time":"2017-10-05T08:31:37.088Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19722,"level":30,"function":"init","activity":"Stock: Stock-75 Generated.","msg":"","time":"2017-10-05T08:31:37.088Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19722,"level":30,"function":"init","activity":"Stock: Stock-30 Generated.","msg":"","time":"2017-10-05T08:31:37.088Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19722,"level":30,"function":"init","activity":"Stock: Stock-33 Generated.","msg":"","time":"2017-10-05T08:31:37.088Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19722,"level":30,"function":"init","activity":"Stock: Stock-39 Generated.","msg":"","time":"2017-10-05T08:31:37.088Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19722,"level":30,"function":"init","activity":"Stock: Stock-26 Generated.","msg":"","time":"2017-10-05T08:31:37.088Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19722,"level":30,"function":"init","activity":"Stock: Stock-96 Generated.","msg":"","time":"2017-10-05T08:31:37.088Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19722,"level":30,"function":"init","activity":"Stock: Stock-1 Generated.","msg":"","time":"2017-10-05T08:31:37.088Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19722,"level":30,"function":"init","activity":"Stock: Stock-46 Generated.","msg":"","time":"2017-10-05T08:31:37.088Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":19722,"level":30,"function":"init","activity":"Stock: Stock-55 Generated.","msg":"","time":"2017-10-05T08:31:37.088Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":21368,"level":30,"msg":"app listening on port 3000","time":"2017-10-05T08:52:11.433Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":21368,"level":30,"function":"init","activity":"Stock: Stock-7 Generated.","msg":"","time":"2017-10-05T08:52:11.435Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":21368,"level":30,"function":"init","activity":"Stock: Stock-92 Generated.","msg":"","time":"2017-10-05T08:52:11.435Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":21368,"level":30,"function":"init","activity":"Stock: Stock-37 Generated.","msg":"","time":"2017-10-05T08:52:11.435Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":21368,"level":30,"function":"init","activity":"Stock: Stock-73 Generated.","msg":"","time":"2017-10-05T08:52:11.435Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":21368,"level":30,"function":"init","activity":"Stock: Stock-67 Generated.","msg":"","time":"2017-10-05T08:52:11.435Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":21368,"level":30,"function":"init","activity":"Stock: Stock-3 Generated.","msg":"","time":"2017-10-05T08:52:11.435Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":21368,"level":30,"function":"init","activity":"Stock: Stock-56 Generated.","msg":"","time":"2017-10-05T08:52:11.435Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":21368,"level":30,"function":"init","activity":"Stock: Stock-90 Generated.","msg":"","time":"2017-10-05T08:52:11.435Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":21368,"level":30,"function":"init","activity":"Stock: Stock-53 Generated.","msg":"","time":"2017-10-05T08:52:11.435Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":21368,"level":30,"function":"init","activity":"Stock: Stock-92 Generated.","msg":"","time":"2017-10-05T08:52:11.435Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":21368,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T08:52:16.681Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":21368,"level":30,"request":{"params":{"id":"1"},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T08:52:19.349Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":21368,"level":30,"request":{"params":{"id":"1"},"query":{},"body":{"currentPrice":1221.91111}},"response":"OK","msg":"","time":"2017-10-05T08:52:21.510Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":21368,"level":30,"request":{"params":{},"query":{},"body":{"name":"New Stock","currentPrice":1532.665,"id":10,"lastUpdate":"2017-10-05T08:52:24.766Z"}},"response":"Created","msg":"","time":"2017-10-05T08:52:24.767Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":21368,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T08:52:27.764Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28248,"level":30,"msg":"app listening on port 3000","time":"2017-10-05T09:48:31.724Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28248,"level":30,"function":"init","activity":"Stock: Stock-40 Generated.","msg":"","time":"2017-10-05T09:48:31.726Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28248,"level":30,"function":"init","activity":"Stock: Stock-19 Generated.","msg":"","time":"2017-10-05T09:48:31.727Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28248,"level":30,"function":"init","activity":"Stock: Stock-73 Generated.","msg":"","time":"2017-10-05T09:48:31.727Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28248,"level":30,"function":"init","activity":"Stock: Stock-18 Generated.","msg":"","time":"2017-10-05T09:48:31.727Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28248,"level":30,"function":"init","activity":"Stock: Stock-71 Generated.","msg":"","time":"2017-10-05T09:48:31.727Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28248,"level":30,"function":"init","activity":"Stock: Stock-98 Generated.","msg":"","time":"2017-10-05T09:48:31.727Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28248,"level":30,"function":"init","activity":"Stock: Stock-36 Generated.","msg":"","time":"2017-10-05T09:48:31.727Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28248,"level":30,"function":"init","activity":"Stock: Stock-88 Generated.","msg":"","time":"2017-10-05T09:48:31.727Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28248,"level":30,"function":"init","activity":"Stock: Stock-36 Generated.","msg":"","time":"2017-10-05T09:48:31.727Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28248,"level":30,"function":"init","activity":"Stock: Stock-91 Generated.","msg":"","time":"2017-10-05T09:48:31.727Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28248,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T09:48:36.253Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28248,"level":30,"request":{"params":{"id":"1"},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T09:48:38.068Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28248,"level":30,"request":{"params":{"id":"1"},"query":{},"body":{"currentPrice":1221.91111}},"response":"OK","msg":"","time":"2017-10-05T09:48:39.922Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28248,"level":30,"request":{"params":{},"query":{},"body":{"name":"New Stock","currentPrice":1532.665,"id":10,"lastUpdate":"2017-10-05T09:48:42.879Z"}},"response":"Created","msg":"","time":"2017-10-05T09:48:42.879Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28248,"level":50,"function":"create","error":"The type of currentPrice is not number as required","msg":"","time":"2017-10-05T09:48:47.018Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28248,"level":50,"request":{"params":{},"query":{},"body":{"name":"New Stock","currentPrice":"1532.665","id":11,"lastUpdate":"2017-10-05T09:48:47.018Z"}},"response":"Bad Request","error":"The type of currentPrice is not number as required","msg":"","time":"2017-10-05T09:48:47.020Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28679,"level":30,"msg":"app listening on port 3001","time":"2017-10-05T09:52:45.958Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28679,"level":30,"function":"init","activity":"Stock: Stock-71 Generated.","msg":"","time":"2017-10-05T09:52:45.960Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28679,"level":30,"function":"init","activity":"Stock: Stock-84 Generated.","msg":"","time":"2017-10-05T09:52:45.960Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28679,"level":30,"function":"init","activity":"Stock: Stock-71 Generated.","msg":"","time":"2017-10-05T09:52:45.960Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28679,"level":30,"function":"init","activity":"Stock: Stock-57 Generated.","msg":"","time":"2017-10-05T09:52:45.961Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28679,"level":30,"function":"init","activity":"Stock: Stock-92 Generated.","msg":"","time":"2017-10-05T09:52:45.961Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28679,"level":30,"function":"init","activity":"Stock: Stock-24 Generated.","msg":"","time":"2017-10-05T09:52:45.961Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28679,"level":30,"function":"init","activity":"Stock: Stock-13 Generated.","msg":"","time":"2017-10-05T09:52:45.961Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28679,"level":30,"function":"init","activity":"Stock: Stock-68 Generated.","msg":"","time":"2017-10-05T09:52:45.961Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28679,"level":30,"function":"init","activity":"Stock: Stock-4 Generated.","msg":"","time":"2017-10-05T09:52:45.961Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28679,"level":30,"function":"init","activity":"Stock: Stock-37 Generated.","msg":"","time":"2017-10-05T09:52:45.961Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28679,"level":50,"function":"create","error":"The type of currentPrice is not number as required","msg":"","time":"2017-10-05T09:52:55.701Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28679,"level":50,"request":{"params":{},"query":{},"body":{"name":"New Stock","currentPrice":"1532.665","id":10,"lastUpdate":"2017-10-05T09:52:55.701Z"}},"response":"Bad Request","error":"The type of currentPrice is not number as required","msg":"","time":"2017-10-05T09:52:55.705Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28679,"level":30,"request":{"params":{},"query":{},"body":{"name":"New Stock","currentPrice":1532.665,"id":10,"lastUpdate":"2017-10-05T09:53:07.978Z"}},"response":"Created","msg":"","time":"2017-10-05T09:53:07.980Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":28679,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T09:56:14.412Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"msg":"app listening on port 3001","time":"2017-10-05T09:57:09.637Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"function":"init","activity":"Stock: Stock-76 Generated.","msg":"","time":"2017-10-05T09:57:09.639Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"function":"init","activity":"Stock: Stock-3 Generated.","msg":"","time":"2017-10-05T09:57:09.639Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"function":"init","activity":"Stock: Stock-11 Generated.","msg":"","time":"2017-10-05T09:57:09.639Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"function":"init","activity":"Stock: Stock-81 Generated.","msg":"","time":"2017-10-05T09:57:09.640Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"function":"init","activity":"Stock: Stock-94 Generated.","msg":"","time":"2017-10-05T09:57:09.640Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"function":"init","activity":"Stock: Stock-90 Generated.","msg":"","time":"2017-10-05T09:57:09.640Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"function":"init","activity":"Stock: Stock-55 Generated.","msg":"","time":"2017-10-05T09:57:09.640Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"function":"init","activity":"Stock: Stock-53 Generated.","msg":"","time":"2017-10-05T09:57:09.640Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"function":"init","activity":"Stock: Stock-44 Generated.","msg":"","time":"2017-10-05T09:57:09.640Z","v":0}
+{"name":"stocksDAO","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"function":"init","activity":"Stock: Stock-22 Generated.","msg":"","time":"2017-10-05T09:57:09.640Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T09:57:11.418Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T10:00:53.192Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T10:57:56.159Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"Not Modified","msg":"","time":"2017-10-05T10:58:34.652Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T10:58:41.885Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T10:58:42.609Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T10:58:42.775Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T10:58:42.912Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T10:58:43.062Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"Not Modified","msg":"","time":"2017-10-05T11:00:46.785Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T11:01:01.763Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"Not Modified","msg":"","time":"2017-10-05T11:01:06.708Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{"id":"1"},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T11:01:10.733Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"Not Modified","msg":"","time":"2017-10-05T11:01:16.246Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"OK","msg":"","time":"2017-10-05T11:01:18.041Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"Not Modified","msg":"","time":"2017-10-05T11:01:21.011Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"Not Modified","msg":"","time":"2017-10-05T11:01:45.977Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"Not Modified","msg":"","time":"2017-10-05T11:03:09.067Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"Not Modified","msg":"","time":"2017-10-05T11:03:58.539Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"Not Modified","msg":"","time":"2017-10-05T11:06:44.652Z","v":0}
+{"name":"stocksApp","hostname":"fellippe-GA-78LMT-USB3-6-0","pid":29360,"level":30,"request":{"params":{},"query":{},"body":{}},"response":"Not Modified","msg":"","time":"2017-10-05T11:08:10.183Z","v":0}

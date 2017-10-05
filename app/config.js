@@ -2,7 +2,7 @@
 
 module.exports = {
   development: {
-    port: 3000,
+    port: 3001,
     defaultPath: '/api'
   },
   test: {
@@ -10,7 +10,7 @@ module.exports = {
     defaultPath: '/api'
   },
   production: {
-    port: 3002,
+    port: 3001,
     defaultPath: '/api'
   }
 };
